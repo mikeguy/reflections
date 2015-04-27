@@ -3,3 +3,6 @@ Sets up a record keeping structure. You need to do it becasue otherwise you woul
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 I can place any files i want to be able to track using git
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+blah blah
