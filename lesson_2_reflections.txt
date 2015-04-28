@@ -11,3 +11,6 @@ Can simply visualize where you are in a structure?
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result is a combination of all the differance in code from origninal to branches comparte to first.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Cons are you have to take time in case you run into stuff that can't automatically be merged, pros are you'll get fast merging.
