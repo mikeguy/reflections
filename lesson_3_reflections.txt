@@ -2,3 +2,6 @@ When would you want to create a remote repository rather than keepin all your wo
 blah nlah
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 because you don't always want changes pulled, maybe you ahven't finished part of a project yet
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+it's too obvious to describe
