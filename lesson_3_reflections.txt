@@ -8,3 +8,6 @@ it's too obvious to describe
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 obvious that you would have the latest changes in your log etc
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I don't know.
